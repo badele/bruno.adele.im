@@ -1,0 +1,10 @@
+active_modules: [pygments, tags, blog]
+author: Bruno Adele
+canonical_url: http://bruno.adele.im/
+locale: fr
+feed:
+  name: Bruno Adele
+  subtitle: Homepage de Bruno Adele
+modules:
+  pygments:
+    style: tango
