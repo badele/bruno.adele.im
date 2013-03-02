@@ -22,7 +22,7 @@ Use
 
    ./garchdeps.py -f mplayer -g /tmp/graph.dot ; tred /tmp/graph.dot | dot -Tpng  -o /tmp/graph.png
 
-.. image:: http://bruno.adele.im/data/uploads/graph_recuced.png
+.. image:: /static/garchdeps/garchdeps_dependencies.jpg
     :alt: garchdeps dependencies
     :align: center
     :width: 100%

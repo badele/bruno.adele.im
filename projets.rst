@@ -4,7 +4,7 @@ Linux & Logiciel libre
 ----------------------
 
 :Garchdeps: est un outil qui permet d'analyser l'utilisation des paquets sur votre système archlinux
-            `Plus d'infos <http://bruno.adele.im/projets/garchdeps>`__, `More informations <http://bruno.adele.im/projets/garchdeps-en>`__
+            `Plus d'infos </projets/garchdeps>`__, `More informations </projets/garchdeps-en>`__
 :Jesuislibre: Ce site permet de faire sortir de l'ombre tous les développeurs qui conçoivent des projets dans le milieu du libre (communautaires, universitaires,etc..).
             Plus d'info sur `Plus d'infos <http://www.jesuislibre.org>`__
 
