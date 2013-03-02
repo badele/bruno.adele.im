@@ -145,3 +145,7 @@ This table displays the name of the package, total dependencies for each package
                      └─attr 
                ├─glibc 
                └─sh(by bash) 
+
+**code**
+
+The code is available in the github repository https://github.com/badele/garchdeps

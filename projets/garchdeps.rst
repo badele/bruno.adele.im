@@ -145,3 +145,6 @@ Ce tableau affiche le nom du paquet, les dépendances totales pour chaque paquet
                ├─glibc 
                └─sh(by bash) 
 
+**Les sources**
+
+Les sources du projet sont disponible sur le dépot github https://github.com/badele/garchdeps
