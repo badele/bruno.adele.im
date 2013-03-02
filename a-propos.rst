@@ -29,9 +29,9 @@ Mes sites
 :jesuislibre: Ce site permet de faire sortir de l'ombre tous les développeurs qui conçoivent des projets dans le milieu du libre (communautaires, universitaires,etc..).
               `Plus d'info <http://www.jesuislibre.org>`__
 :informemoi: Site d'agrégation des informations
-             Plus d'info sur `Plus d'info <http://www.informemoi.com>`__
+             `Plus d'info <http://www.informemoi.com>`__
 :cendreo: Site qui met à disposition mes compétences
-          Plus d'info sur `Plus d'info <http://www.cendreo.com>`__
+          `Plus d'info <http://www.cendreo.com>`__
 
 
 Me contacter
