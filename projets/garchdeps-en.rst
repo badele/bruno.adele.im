@@ -3,19 +3,20 @@ public: true
 Garchdeps
 ===============
 
-garchdeps est un outil qui permet d'analyser l'utilisation des paquets sur votre système archlinux
+garchdeps is tool that show graphical dependencies of the archlinux packages
 
-Fonctions principales
+Main functions
 ---------------------
 
-- Affichage sous forme graphique des dépendances d'un ou plusieurs paquets
+- Show graphical dependencies of the Archlinux packages
+- For each package display detailed informations (number of dependencies, width dependency, package size, related package packet size, etc ...)
 - Affichage pour chaque paquet des informations détaillées (nombre de dépendances, largeur de dépendance, taille des paquets, taille des paquets liés, etc ...)
-- Calcul des paquets orphelins (simulation de suppression de paquet)
+- Helper for searching orphan package (simulate removing packages)
 
-Utilisation
+Use
 -----------
 
-**Génération d'un graphe de dépendance**
+**Generate graph dependencies**
 
 .. sourcecode:: bash
 
@@ -27,9 +28,9 @@ Utilisation
     :width: 100%
     :target: http://www.flickr.com/photos/b_adele/8480760073/sizes/k/in/photostream/
 
-**Affichage d'un tableau détaillé des paquets**
+**Detailed packages informations**
 
-Ce tableau affiche le nom du paquet, les dépendances totales pour chaque paquet, les dépendances liées au paquet seulement (si le paquet doit être supprimé), taille des paquets, etc ...
+This table displays the name of the package, total dependencies for each package,  dependencies only related package (if the package should be deleted), packet size, etc.
 
 .. sourcecode:: bash
 
@@ -41,7 +42,7 @@ Ce tableau affiche le nom du paquet, les dépendances totales pour chaque paquet
     :align: center
     :width: 100%
 
-**Affichage des paquets orphelins en cas de suppression**
+**Display orphan package if it deleted**
 
 .. sourcecode:: bash
 
@@ -49,12 +50,12 @@ Ce tableau affiche le nom du paquet, les dépendances totales pour chaque paquet
 
 
 .. image:: ../../static/garchdeps/thumbnail.commande_orphan.png
-    :alt: informations détaillés sur les paquets
+    :alt: detailed informations packages
     :align: center
     :width: 100%
 
 
-**Affichage des dépendences sous forme d'arbre texte**
+**Display dependencies in tree mode**
 
 .. sourcecode:: bash
 
@@ -62,7 +63,7 @@ Ce tableau affiche le nom du paquet, les dépendances totales pour chaque paquet
 
 
 .. image:: ../../static/garchdeps/garchdeps_tree.png
-    :alt: affichage sous forme d'arbre en mode console
+    :alt: tree dependencies mode
     :align: center
     :width: 100%
 
