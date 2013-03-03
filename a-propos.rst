@@ -40,6 +40,7 @@ Me contacter
 :Email: bruno.adele@jesuislibre.org
 :Twitter: https://twitter.com/jesuislibre
 :Google+: https://plus.google.com/100723270029692582967
+:Facebook: https://www.facebook.com/bruno.adele
 :Linuxfr: http://linuxfr.org/users/b_adele
 :Github: https://github.com/badele
 :Flickr: http://www.flickr.com/photos/b_adele/
