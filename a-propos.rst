@@ -43,7 +43,7 @@ Me contacter
 :Linuxfr: http://linuxfr.org/users/b_adele
 :Github: https://github.com/badele
 :Flickr: http://www.flickr.com/photos/b_adele/
-:Last.fm: http://www.lastfm.fr/user/b_adele
+:Grooveshark: http://grooveshark.com/#!/badele
 :Stackoverflow: http://stackoverflow.com/users/2015612/bruno-adele
 
 .. _garchdeps: /projets/garchdeps
