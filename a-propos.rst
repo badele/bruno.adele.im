@@ -19,7 +19,7 @@ Mes contributions
 Mes blogs
 ---------
 
-- Le `blog jesuislibre`_ me permet de partage ma passion, il me sert également de bloc note.
+- Le `blog jesuislibre`_ me permet de partager ma passion, il me sert également de bloc-note.
 - Le `blog cendreo`_ est plus orienté professionnel, il est moins actif que le `blog jesuislibre`_.
 
 
@@ -44,7 +44,7 @@ Me contacter
 :Linuxfr: http://linuxfr.org/users/b_adele
 :Github: https://github.com/badele
 :Flickr: http://www.flickr.com/photos/b_adele/
-:Grooveshark: http://grooveshark.com/#!/badele
+:Lastfm: http://www.lastfm.fr/user/b_adele
 :Stackoverflow: http://stackoverflow.com/users/2015612/bruno-adele
 
 .. _garchdeps: /projets/garchdeps
