@@ -4,6 +4,16 @@ public: true
 .. raw:: html
 
          <div class=entry-overview>
+           <div class=date>April 2013 - [Contribution]</div>
+           <div class=detail>
+             <h1><a href="https://github.com/badele/rstblog">rstblog</a></h1>
+
+             <div class=summary><p>Quelques corrections sur le moteur de blog rstblog.</p>
+             </div>
+           </div>
+         </div>
+
+         <div class=entry-overview>
            <div class=date>Avril 2013 - [Projet]</div>
            <div class=detail>
              <h1><a href="/projets/gitcheck">Gitcheck</a></h1>
