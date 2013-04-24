@@ -19,7 +19,7 @@ Utilisation
 
 **Version simplifiée**
 
-Affiche le status de chaque dépôt, avec pour chaque projet git le nombre de modifications.
+Affiche le status de chaque dépôt, avec pour chaque projet git le nombre de fichier modifiés ainsi que pour chaque dépôts les push non encore effectués.
 
 
 .. image:: /static/gitcheck.png
@@ -29,9 +29,9 @@ Affiche le status de chaque dépôt, avec pour chaque projet git le nombre de mo
 - En rose les dépôts git modifiés accompagnés des statistiques.
 
 
-**Version verbale**
+**Version verbose**
 
-Sensiblement identique à la version précédente, mais indique également les fichiers modifiés.
+Par rapport à la version précédente, affiche les noms des fichiers concernés ainsi que pour chaque dépôts les commits non pushés
 
 .. image:: /static/gitcheck_verbose.png
    :width: 75%
