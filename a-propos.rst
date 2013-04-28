@@ -12,7 +12,7 @@ J'ai découvert l'informatique peut de temps après les années 80, c'est le dé
 Mes contributions
 -----------------
 
-:Projets_actuel: `Garchdeps`_
+:Projets_actuel: `Garchdeps`_, `Gitcheck`_
 :Autre_projets: Pour avoir la liste des autres `projets`_ auxquels j'ai participés.
 
 
@@ -48,6 +48,7 @@ Me contacter
 :Stackoverflow: http://stackoverflow.com/users/2015612/bruno-adele
 
 .. _garchdeps: /projets/garchdeps
+.. _gitcheck: /projets/gitcheck
 .. _projets: /projets
 .. _blog jesuislibre: http://blog.jesuislibre.org
 .. _blog cendreo: http://blog.cendreo.com
