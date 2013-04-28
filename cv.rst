@@ -1,6 +1,6 @@
 public: true
 
-`For english version`_
+`For english version </cv/en>`__
 
 Bruno Adele
 ===========
