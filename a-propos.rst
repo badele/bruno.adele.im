@@ -12,7 +12,7 @@ J'ai découvert l'informatique peut de temps après les années 80, c'est le dé
 Mes contributions
 -----------------
 
-:Projets_actuel: `Garchdeps`_, `Gitcheck`_
+:Projets_actuel: `Fabrecipes`_, `Garchdeps`_, `Gitcheck`_
 :Autre_projets: Pour avoir la liste des autres `projets`_ auxquels j'ai participés.
 
 
@@ -47,6 +47,7 @@ Me contacter
 :Lastfm: http://www.lastfm.fr/user/b_adele
 :Stackoverflow: http://stackoverflow.com/users/2015612/bruno-adele
 
+.. _fabrecipes: https://github.com/badele/fabrecipes
 .. _garchdeps: /projets/garchdeps
 .. _gitcheck: /projets/gitcheck
 .. _projets: /projets

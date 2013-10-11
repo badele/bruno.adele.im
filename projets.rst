@@ -4,6 +4,16 @@ public: true
 .. raw:: html
 
          <div class=entry-overview>
+           <div class=date>October 2013 - [Projet]</div>
+           <div class=detail>
+             <h1><a href="https://github.com/badele/fabrecipes">Fabrecipes</a></h1>
+
+             <div class=summary><p>Permet d'automatiser vos tâches, comme par exemple une installation automatique d'une distribution Archlinux.</p>
+             </div>
+           </div>
+         </div>
+
+         <div class=entry-overview>
            <div class=date>April 2013 - [Contribution]</div>
            <div class=detail>
              <h1><a href="https://github.com/badele/rstblog">rstblog</a></h1>
