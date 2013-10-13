@@ -6,6 +6,26 @@ public: true
          <div class=entry-overview>
            <div class=date>October 2013 - [Projet]</div>
            <div class=detail>
+             <h1><a href="https://github.com/badele/pelicanthemes-generator">Pelican-theme-generator</a></h1>
+
+             <div class=summary><p>Génère automatiquement les previews des thèmes issue du site <a href="https://github.com/getpelican/pelican-themes">Pelican-themes</a>.</p>
+             </div>
+           </div>
+         </div>
+
+         <div class=entry-overview>
+           <div class=date>October 2013 - [Projet]</div>
+           <div class=detail>
+             <h1><a href="https://github.com/badele/pelican-theme-jesuislibre">Pelican-theme-jesuislibre</a></h1>
+
+             <div class=summary><p>Thème pour le générateur de blog <a href="http://getpelican.com/">Pelican</a>.</p>
+             </div>
+           </div>
+         </div>
+
+         <div class=entry-overview>
+           <div class=date>October 2013 - [Projet]</div>
+           <div class=detail>
              <h1><a href="https://github.com/badele/fabrecipes">Fabrecipes</a></h1>
 
              <div class=summary><p>Permet d'automatiser vos tâches, comme par exemple une installation automatique d'une distribution Archlinux.</p>

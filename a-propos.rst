@@ -12,7 +12,7 @@ J'ai découvert l'informatique peut de temps après les années 80, c'est le dé
 Mes contributions
 -----------------
 
-:Projets_actuel: `Fabrecipes`_, `Garchdeps`_, `Gitcheck`_
+:Mes_projets: `Pelicanthemes-generator`_, `Pelican-theme-jesuislibre`_, `Fabrecipes`_, `Garchdeps`_, `Gitcheck`_
 :Autre_projets: Pour avoir la liste des autres `projets`_ auxquels j'ai participés.
 
 
@@ -47,6 +47,8 @@ Me contacter
 :Lastfm: http://www.lastfm.fr/user/b_adele
 :Stackoverflow: http://stackoverflow.com/users/2015612/bruno-adele
 
+.. _`Pelicanthemes-generator`: https://github.com/badele/pelicanthemes-generator
+.. _`Pelican-theme-jesuislibre`: https://github.com/badele/pelican-theme-jesuislibre
 .. _fabrecipes: https://github.com/badele/fabrecipes
 .. _garchdeps: /projets/garchdeps
 .. _gitcheck: /projets/gitcheck
