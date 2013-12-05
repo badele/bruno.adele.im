@@ -1,7 +1,8 @@
-public: true
-
 Gitcheck
-========
+########
+
+:url: /projets/gitcheck
+:save_as: projets/gitcheck/index.html
 
 Lorsque vous travaillez sur plusieurs dépots git, il est désagréable de devoir parcourir chaque projet un à un pour voir si des modifications ont été commitées. C'est pour cela que j'ai crée ce script qui permet de savoir quels sont les projets non commités.
 
@@ -26,6 +27,7 @@ Affiche le status de chaque dépôt, avec pour chaque projet git le nombre de fi
 
 .. image:: /static/gitcheck.png
    :width: 75%
+   :alt: gitcheck simple capture
 
 - En vert les dépôts git non modifiés.
 - En rose les dépôts git modifiés accompagnés des statistiques.
@@ -37,6 +39,7 @@ Par rapport à la version précédente, affiche les noms des fichiers concernés
 
 .. image:: /static/gitcheck_verbose.png
    :width: 75%
+   :alt: gitcheck verbose capture
 
 - En vert les dépôts git non modifiés.
 - En rose les dépôts git modifiés accompagnés des statistiques.

@@ -1,33 +1,32 @@
-public: true
-
 Garchdeps
-===============
+#########
 
-English version http://bruno.adele.im/projets/garchdeps-en/
+:lang: en
+:url: /projets/garchdeps-en
+:save_as: projets/garchdeps-en/index.html
 
-garchdeps est un outil qui permet d'analyser l'utilisation des paquets sur votre système archlinux.
+garchdeps is tool that show graphical dependencies of the archlinux packages
 
-Fonctions principales
+Main functions
 ---------------------
-- `Affichage sous forme graphique`_ des dépendances d'un ou plusieurs paquets
-- `Résumé de l'installation`_
-- Affichage pour chaque paquet des `informations détaillées`_ (nombre de dépendances, largeur de dépendance, taille des paquets, taille des paquets liés, etc ...) ainsi qu'en mode `dépendance inversée`_
-- Calcul des `paquets orphelins`_ (simulation de suppression de paquet)
-- Affichage des dépendances `sous forme d'arbre`_ (en mode console)
 
+- `Show graphical dependencies`_ of the Archlinux packages
+- `Summaries informations`_
+- For each package display `detailed informations`_ (number of dependencies, width dependency, package size, related package packet size, etc ...) and `reverse dependencies`_
+- Helper for searching `orphan`_ package (simulate removing packages)
+- Show dependencies in `tree in console mode`_
 
-Utilisation
+Use
 -----------
+.. _`Show graphical dependencies`:
 
-.. _`Affichage sous forme graphique`:
+**Generate graph dependencies**
 
-**Génération d'un graphe de dépendance**
-
-Affiche un graphe de dépendance, en magenta les 10 premiers paquets les plus utilisés sur l'installation, en cyan les 10 autres paquets les plus utilisés, en vert les paquets que l'on peut supprimer si on venait à supprimer le paquet principal, en l'occurence ici **mplayer**.
+Show graph dependencies, magenta 10 most packages used by your installation, cyan other 10 most packages used, gree packages used only by this primary package, in this example **mplayer**.
 
 .. sourcecode:: bash
 
-   garchdeps.py -f mplayer -g /tmp/graph.dot ; tred /tmp/graph.dot | dot -Tpng -o /tmp/graph.png
+   ./garchdeps.py -f mplayer -g /tmp/graph.dot ; tred /tmp/graph.dot | dot -Tpng  -o /tmp/graph.png
 
 .. image:: /static/garchdeps/garchdeps_dependencies.jpg
     :alt: garchdeps dependencies
@@ -35,12 +34,12 @@ Affiche un graphe de dépendance, en magenta les 10 premiers paquets les plus ut
     :width: 100%
     :target: http://www.flickr.com/photos/b_adele/8480760073/sizes/k/in/photostream/
 
+.. _`Summaries informations`:
 
-.. _`Résumé de l'installation`:
 
-**Détails des informations**
+**Summary**
 
-Affiche un résumé de l'installation, en autre le nombre de paquets, la taille occupé sur le disque et diverses statistiques. 
+Show a summaries installation, total packages installed and totaly installed size on disk.
 
 .. sourcecode:: plaintext
 
@@ -56,11 +55,11 @@ Affiche un résumé de l'installation, en autre le nombre de paquets, la taille 
                  Max depths : zathura-djvu(13)
 
 
-.. _`informations détaillées`:
+.. _`detailed informations`:
 
-**Affichage d'un tableau détaillé des paquets**
+**Detailed packages informations**
 
-Ce tableau affiche le nom du paquet, les dépendances totales pour chaque paquet, les dépendances liées au paquet seulement (si le paquet doit être supprimé), taille des paquets, etc ...
+This table displays the name of the package, total dependencies for each package,  dependencies only related package (if the package should be deleted), packet size, etc.
 
 .. sourcecode:: plaintext
 
@@ -78,10 +77,12 @@ Ce tableau affiche le nom du paquet, les dépendances totales pour chaque paquet
    qt                                       |     110 |       0 |        9 |        8 |    90 MB |     0 KB |    90 MB |   355 MB | ###        |
    jre                                      |      54 |       0 |       10 |        0 |    86 MB |     0 KB |    86 MB |   211 MB | ###        |
 
-.. _`dépendance inversée`:
 
-**Affichage des dépendance inversée**
-Affiche les dépendances inversée, c'est à dire qui utilise le paquet recherché. Par exemple ci-dessous, la liste des paquet utilisant la librairie qt.
+.. _`reverse dependencies`:
+
+**Show reverse dependencies**
+
+Show reverse dependencies, in this example, show who use qt 
 
 .. sourcecode:: plaintext
 
@@ -100,12 +101,11 @@ Affiche les dépendances inversée, c'est à dire qui utilise le paquet recherch
    automoc4                                 |     111 |       0 |       10 |        0 |  84.0 KB |     0 KB |  84.0 KB |   446 MB |            |
 
 
+.. _`orphan`:
 
-.. _`paquets orphelins`:
+**Display orphan package if it deleted**
 
-**Affichage des paquets orphelins en cas de suppression**
-
-Permet d'afficher la commandes de suppression du paquet principal ansi que les paquets liée (en vert sur le graphe ci-dessus)
+Show remove command line for uninstalling package with only packages used by it (in green in graph dependencies at this top of this document)
 
 .. sourcecode:: plaintext
 
@@ -117,16 +117,15 @@ Permet d'afficher la commandes de suppression du paquet principal ansi que les p
    emacs                                    109 MB     [  0] sudo pacman -R emacs libotf m17n-lib m17n-db 
    inkscape                                 97 MB      [  0] sudo pacman -R inkscape gc gsl gtkspell enchant aspell hspell poppler-glib 
 
+.. _`tree in console mode`:
 
-.. _`sous forme d'arbre`:
+**Display dependencies in tree mode**
 
-**Affichage des dépendences sous forme d'arbre texte**
-
-Permet d'afficher l'arborescence des dépendance sous forme d'arbre en mode console.
+Show dependencies in tree for console.
 
 .. sourcecode:: plaintext
 
-   garchdeps.py -f tmux -t
+   ./garchdeps.py -f tmux -t
 
    ──tmux 
       ├─ncurses 
@@ -177,6 +176,6 @@ Permet d'afficher l'arborescence des dépendance sous forme d'arbre en mode cons
                ├─glibc 
                └─sh(by bash) 
 
-**Les sources**
+**code**
 
-Les sources du projet sont disponible sur le dépot github https://github.com/badele/garchdeps
+The code is available in the github repository https://github.com/badele/garchdeps

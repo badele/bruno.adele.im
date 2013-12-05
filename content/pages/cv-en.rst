@@ -1,7 +1,11 @@
-public: true
-
 Bruno Adele
-===============
+###########
+
+:title: 
+:lang: en
+:url: /cv/en
+:save_as: cv/en/index.html
+
 
 .. image:: /static/bruno.jpg
     :alt: Ma photo
@@ -68,7 +72,7 @@ Hobbies
 
 .. _CompuGroup Medical AG: http://www.cgm.com/corp/index.en.jsp
 .. _garchdeps: http://bruno.adele.im/projets/garchdeps-en/
-.. _gitcheck: https://github.com/badele/gitcheck
+.. _gitcheck: http://bruno.adele.im/projets/gitcheck
 .. _fabtools: https://github.com/ronnix/fabtools
 .. _domogik: http://www.domogik.org/en/
 .. _others projects in github: https://github.com/badele

@@ -1,13 +1,15 @@
-public: true
-
 A propos de moi
-===============
+###############
+
+:save_as: index.html
 
 .. image:: /static/bruno.jpg
     :alt: Ma photo
     :align: right
 
-J'ai découvert l'informatique peut de temps après les années 80, c'est le début de l'informatique grand public, j'ai découvert linux vers 1994, dans la même période, j'ai également découvert ce que je pourrais appeler la meilleure invention de l'informatique: Internet. Depuis plus de 15 ans, j'ai acquis diverses compétences dans des domaines qui peuvent aller de l'ingienierie systeme à la programmation en passant pas le design. `Pour en savoir plus </cv>`__
+J'ai découvert l'informatique peut de temps après les années 80, c'est le début de l'informatique grand public, j'ai découvert linux vers 1994, dans la même période, 
+j'ai également découvert ce que je pourrais appeler la meilleure invention de l'informatique: Internet. Depuis plus de 15 ans, j'ai acquis diverses compétences dans des 
+domaines qui peuvent aller de l'ingienierie systeme à la programmation en passant pas le design. `Pour en savoir plus </cv>`__
 
 Mes contributions
 -----------------
@@ -59,3 +61,4 @@ Me contacter
 .. _informemoi: http://www.informemoi.com
 .. _cendreo: http://www.cendreo.com
 .. _Plus d'info1: http://www.jesuislibre.org
+

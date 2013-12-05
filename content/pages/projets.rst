@@ -1,5 +1,6 @@
-public: true
-
+:url: /projets
+:slug: projets
+:save_as: projets/index.html
 
 .. raw:: html
 
