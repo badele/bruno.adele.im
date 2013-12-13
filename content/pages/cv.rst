@@ -3,6 +3,7 @@ Bruno Adele
 
 :title: 
 :url: /cv/
+:slug: cv
 :save_as: cv/index.html
 
 `For english version </cv/en>`__

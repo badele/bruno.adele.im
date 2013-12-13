@@ -1,6 +1,6 @@
-A propos de moi
-###############
-
+Bruno Adele
+###########
+:summary: The github projects index for Bruno Adele github account
 :save_as: index.html
 
 .. image:: /static/bruno.jpg
@@ -9,14 +9,9 @@ A propos de moi
 
 J'ai découvert l'informatique peut de temps après les années 80, c'est le début de l'informatique grand public, j'ai découvert linux vers 1994, dans la même période, 
 j'ai également découvert ce que je pourrais appeler la meilleure invention de l'informatique: Internet. Depuis plus de 15 ans, j'ai acquis diverses compétences dans des 
-domaines qui peuvent aller de l'ingienierie systeme à la programmation en passant pas le design. `Pour en savoir plus </cv>`__
+domaines qui peuvent aller de l'ingienierie systeme à la programmation en passant pas le design. `Pour en savoir plus </cv>`__ 
 
-Mes contributions
------------------
-
-:Mes_projets: `Pelicanthemes-generator`_, `Pelican-theme-jesuislibre`_, `Fabrecipes`_, `Garchdeps`_, `Gitcheck`_
-:Autre_projets: Pour avoir la liste des autres `projets`_ auxquels j'ai participés.
-
+Je suis également passionné par les logiciels libres. Jusqu'à présent j'ai contribué **373 heures** à divers projets libres.
 
 Mes blogs
 ---------
@@ -35,6 +30,37 @@ Mes sites
 :cendreo: Site qui met à disposition mes compétences
           `Plus d'info <http://www.cendreo.com>`__
 
+Mes contributions
+-----------------
+
+- `JobCatcher`_ a contribué **108 heures** 
+- `rstblog`_ / NIH site generator
+- `pelican-plugins`_ / A bunch of plugins for the pelican blog engine.
+- `fabtools`_ a contribué **29 heures** / Tools for writing awesome Fabric files
+- `pelican-themes`_ / Themes for pelican
+- `archzfs`_ / Package and repository sources for ZFS on Arch Linux
+- `python-munin`_ / Python framework for building Munin plugins (also includes some plugins prebuilt).
+- `urwid`_ / Console user interface library for Python (hg-git clone for git-fans)
+
+
+Mes projets
+-----------
+
+- `gitcheck`_ a contribué **15 heures** (24 utilisateurs, 6 forks)/ Check multiple git repository in one pass / Vérifiez vos dépôt git en une seule passe
+- `JobCatcher`_ a contribué **108 heures** (8 utilisateurs, 4 forks)
+- `fabrecipes`_ a contribué **89 heures** (5 utilisateurs, 1 forks)/ A recipes for Fabric & Fabtools
+- `garchdeps`_ (3 utilisateurs)/ Tool that show graphical dependencies of the archlinux packages
+- `github-summary`_ a contribué **14 heures** / Python tool for generate github summary in multiple formats
+- `bruno.adele.im`_ / code du site web bruno.adele.im
+- `blog.jesuislibre.org`_ / source du blog jesuislibre.org
+- `pelican-theme-jesuislibre`_ / jesuislibre pelican theme
+- `pelicanthemes-generator`_ / pelican theme screenshot generator
+- `archlinux-pkgbuilds`_ / Archlinux packages
+- `old-projects`_ / Ancien projets / old projects
+- `fdedup`_ / Find a duplicate files and delete or move
+- `jsl-tools`_ / Diverse tools from jesuislibre website
+
+**Répartition des languages:** Python (43%), Shell (23%), CSS (14%), JavaScript (9%), Emacs Lisp (3%), C++ (3%), Perl (3%), Ruby (3%)
 
 Me contacter
 ------------
@@ -49,16 +75,31 @@ Me contacter
 :Lastfm: http://www.lastfm.fr/user/b_adele
 :Stackoverflow: http://stackoverflow.com/users/2015612/bruno-adele
 
-.. _`Pelicanthemes-generator`: https://github.com/badele/pelicanthemes-generator
-.. _`Pelican-theme-jesuislibre`: https://github.com/badele/pelican-theme-jesuislibre
+
+.. _gitcheck: https://github.com/badele/gitcheck
+.. _jobcatcher: https://github.com/badele/jobcatcher
 .. _fabrecipes: https://github.com/badele/fabrecipes
-.. _garchdeps: /projets/garchdeps
-.. _gitcheck: /projets/gitcheck
-.. _projets: /projets
+.. _garchdeps: https://github.com/badele/garchdeps
+.. _github-summary: https://github.com/badele/github-summary
+.. _bruno.adele.im: https://github.com/badele/bruno.adele.im
+.. _blog.jesuislibre.org: https://github.com/badele/blog.jesuislibre.org
+.. _pelican-theme-jesuislibre: https://github.com/badele/pelican-theme-jesuislibre
+.. _pelicanthemes-generator: https://github.com/badele/pelicanthemes-generator
+.. _archlinux-pkgbuilds: https://github.com/badele/archlinux-pkgbuilds
+.. _old-projects: https://github.com/badele/old-projects
+.. _fdedup: https://github.com/badele/fdedup
+.. _jsl-tools: https://github.com/badele/jsl-tools
+
+
+.. _jobcatcher: https://github.com/badele/jobcatcher
+.. _rstblog: https://github.com/badele/rstblog
+.. _pelican-plugins: https://github.com/badele/pelican-plugins
+.. _fabtools: https://github.com/badele/fabtools
+.. _pelican-themes: https://github.com/badele/pelican-themes
+.. _archzfs: https://github.com/badele/archzfs
+.. _python-munin: https://github.com/badele/python-munin
+.. _urwid: https://github.com/badele/urwid
+
+
 .. _blog jesuislibre: http://blog.jesuislibre.org
 .. _blog cendreo: http://blog.cendreo.com
-.. _jesuislibre: http://www.jesuislibre.org
-.. _informemoi: http://www.informemoi.com
-.. _cendreo: http://www.cendreo.com
-.. _Plus d'info1: http://www.jesuislibre.org
-

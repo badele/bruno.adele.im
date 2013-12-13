@@ -9,6 +9,10 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 # Pelican
+summary:
+	org2json -o /LIVE/documents/project.org -s projects.json
+	githubsummary -t rst/index-fr.rst -j projects.json -s ./content/pages/about.rst
+
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
@@ -19,6 +23,8 @@ clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
 regenerate:
+	org2json -o /LIVE/documents/project.org -s projects.json
+	githubsummary -t rst/index-en.rst -j projects.json -s ./content/pages/about.rst
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 serve:

@@ -4,6 +4,7 @@ Bruno Adele
 :title: 
 :lang: en
 :url: /cv/en
+:slug: en
 :save_as: cv/en/index.html
 
 
