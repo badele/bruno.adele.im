@@ -1,5 +1,6 @@
 Mes projets
------------
+###########
+
 :summary: The github projects index for Bruno Adele github account
 :url: /projets
 :slug: projets
@@ -12,8 +13,8 @@ Mes projets
 -----------
 
 
-`gitcheck <http://bruno.adele.im/projets/gitcheck>`__ 
------------------------------------------------------
+`gitcheck <https://api.github.com/repos/badele/gitcheck>`__ 
+-----------------------------------------------------------
 
 a contribué **15 heures** (25 utilisateurs, 6 forks)
 
@@ -25,7 +26,7 @@ a contribué **15 heures** (25 utilisateurs, 6 forks)
 
 
 
-Lorsque vous travaillez sur plusieurs dépots git, il est désagréable de devoir parcourir chaque projet un à un pour voir si des modifications ont été commitées. C'est pour cela que j'ai crée ce script qui permet de savoir quels sont les projets non commités.
+Check multiple git repository in one pass / Vérifiez vos dépôt git en une seule passe
 
 `JobCatcher <https://api.github.com/repos/yoannsculo/JobCatcher>`__ 
 -------------------------------------------------------------------
@@ -40,7 +41,7 @@ a contribué **108 heures** (8 utilisateurs, 4 forks)
 
 
 
-JobCatcher est une application codée en Python qui agrège des flux d'offres d'emploi de job boards et les stocke dans une base de données locale.
+
 
 `fabrecipes <https://api.github.com/repos/badele/fabrecipes>`__ 
 ---------------------------------------------------------------
@@ -55,7 +56,7 @@ a contribué **89 heures** (5 utilisateurs, 1 forks)
 
 
 
-Permet d'automatiser vos tâches, comme par exemple une installation automatique d'une distribution Archlinux.
+A recipes for Fabric & Fabtools
 
 `garchdeps <https://api.github.com/repos/badele/garchdeps>`__ 
 -------------------------------------------------------------
@@ -77,23 +78,15 @@ Tool that show graphical dependencies of the archlinux packages
 
 a contribué **22 heures** 
 
-.. image:: https://travis-ci.org/badele/github-summary.png?branch=master
-   :target: https://travis-ci.org/badele/github-summary
 
 
-.. image:: https://coveralls.io/repos/badele/github-summary/badge.png
-   :target: https://coveralls.io/r/badele/github-summary
 
 
-.. image:: https://pypip.in/v/github-summary/badge.png
-   :target: https://crate.io/packages/github-summary/
 
 
-.. image:: https://pypip.in/d/github-summary/badge.png
-   :target: https://crate.io/packages/github-summary/
 
 
-Permet de générer des pages résumant l'activité sur vos dépots github, il est possible d'exporter sous différents formats (TXT, RST, HTML, ...)
+Python tool for generate github summary in multiple formats
 
 `bruno.adele.im <https://api.github.com/repos/badele/bruno.adele.im>`__ 
 -----------------------------------------------------------------------
@@ -225,7 +218,7 @@ Mes contributions
 `JobCatcher <https://api.github.com/repos/badele/JobCatcher>`__ 
 ---------------------------------------------------------------
 
-a contribué **108 heures** (1 utilisateurs)
+a contribué **108 heures** (8 utilisateurs, 4 forks)
 
 
 
@@ -235,12 +228,12 @@ a contribué **108 heures** (1 utilisateurs)
 
 
 
-JobCatcher est une application codée en Python qui agrège des flux d'offres d'emploi de job boards et les stocke dans une base de données locale.
+
 
 `rstblog <https://api.github.com/repos/badele/rstblog>`__ 
 ---------------------------------------------------------
 
-(, 1 forks)
+(180 utilisateurs, 58 forks)
 
 
 
@@ -255,7 +248,7 @@ NIH site generator
 `pelican-plugins <https://api.github.com/repos/badele/pelican-plugins>`__ 
 -------------------------------------------------------------------------
 
-
+(115 utilisateurs, 125 forks)
 
 
 
@@ -270,7 +263,7 @@ A bunch of plugins for the pelican blog engine.
 `fabtools <https://api.github.com/repos/badele/fabtools>`__ 
 -----------------------------------------------------------
 
-a contribué **29 heures** 
+a contribué **29 heures** (558 utilisateurs, 118 forks)
 
 
 
@@ -280,12 +273,12 @@ a contribué **29 heures**
 
 
 
-Outil pour simplifier l'écriture de script fabtools
+Tools for writing awesome Fabric files
 
 `pelican-themes <https://api.github.com/repos/badele/pelican-themes>`__ 
 -----------------------------------------------------------------------
 
-
+(308 utilisateurs, 241 forks)
 
 
 
@@ -300,7 +293,7 @@ Themes for pelican
 `archzfs <https://api.github.com/repos/badele/archzfs>`__ 
 ---------------------------------------------------------
 
-
+(11 utilisateurs, 2 forks)
 
 
 
@@ -315,7 +308,7 @@ Package and repository sources for ZFS on Arch Linux
 `python-munin <https://api.github.com/repos/badele/python-munin>`__ 
 -------------------------------------------------------------------
 
-
+(216 utilisateurs, 45 forks)
 
 
 
@@ -330,7 +323,7 @@ Python framework for building Munin plugins (also includes some plugins prebuilt
 `urwid <https://api.github.com/repos/badele/urwid>`__ 
 -----------------------------------------------------
 
-
+(151 utilisateurs, 41 forks)
 
 
 

@@ -33,20 +33,20 @@ Mes sites
 Mes contributions
 -----------------
 
-- `JobCatcher`_ a contribué **108 heures** 
-- `rstblog`_ / NIH site generator
-- `pelican-plugins`_ / A bunch of plugins for the pelican blog engine.
-- `fabtools`_ a contribué **29 heures** / Tools for writing awesome Fabric files
-- `pelican-themes`_ / Themes for pelican
-- `archzfs`_ / Package and repository sources for ZFS on Arch Linux
-- `python-munin`_ / Python framework for building Munin plugins (also includes some plugins prebuilt).
-- `urwid`_ / Console user interface library for Python (hg-git clone for git-fans)
+- `JobCatcher`_ a contribué **108 heures** (8 utilisateurs, 4 forks)
+- `rstblog`_ (180 utilisateurs, 58 forks)/ NIH site generator
+- `pelican-plugins`_ (115 utilisateurs, 125 forks)/ A bunch of plugins for the pelican blog engine.
+- `fabtools`_ a contribué **29 heures** (558 utilisateurs, 118 forks)/ Tools for writing awesome Fabric files
+- `pelican-themes`_ (308 utilisateurs, 241 forks)/ Themes for pelican
+- `archzfs`_ (11 utilisateurs, 2 forks)/ Package and repository sources for ZFS on Arch Linux
+- `python-munin`_ (216 utilisateurs, 45 forks)/ Python framework for building Munin plugins (also includes some plugins prebuilt).
+- `urwid`_ (151 utilisateurs, 41 forks)/ Console user interface library for Python (hg-git clone for git-fans)
 
 
 Mes projets
 -----------
 
-- `gitcheck`_ a contribué **15 heures** (24 utilisateurs, 6 forks)/ Check multiple git repository in one pass / Vérifiez vos dépôt git en une seule passe
+- `gitcheck`_ a contribué **15 heures** (25 utilisateurs, 6 forks)/ Check multiple git repository in one pass / Vérifiez vos dépôt git en une seule passe
 - `JobCatcher`_ a contribué **108 heures** (8 utilisateurs, 4 forks)
 - `fabrecipes`_ a contribué **89 heures** (5 utilisateurs, 1 forks)/ A recipes for Fabric & Fabtools
 - `garchdeps`_ (3 utilisateurs)/ Tool that show graphical dependencies of the archlinux packages
