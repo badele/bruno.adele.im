@@ -1,194 +1,349 @@
+Mes projets
+-----------
+:summary: The github projects index for Bruno Adele github account
 :url: /projets
 :slug: projets
 :save_as: projets/index.html
 
-.. raw:: html
+Passionné par les logiciels libres. Je contribue à divers projets, j'ai contribué **381 heures** sur **21** projets.
 
-         <div class=entry-overview>
-           <div class=date>October 2013 - [Projet]</div>
-           <div class=detail>
-             <h1><a href="https://github.com/badele/pelicanthemes-generator">Pelican-theme-generator</a></h1>
-
-             <div class=summary><p>Génère automatiquement les previews des thèmes issue du site <a href="https://github.com/getpelican/pelican-themes">Pelican-themes</a>.</p>
-             </div>
-           </div>
-         </div>
-
-         <div class=entry-overview>
-           <div class=date>October 2013 - [Projet]</div>
-           <div class=detail>
-             <h1><a href="https://github.com/badele/pelican-theme-jesuislibre">Pelican-theme-jesuislibre</a></h1>
-
-             <div class=summary><p>Thème pour le générateur de blog <a href="http://getpelican.com/">Pelican</a>.</p>
-             </div>
-           </div>
-         </div>
-
-         <div class=entry-overview>
-           <div class=date>October 2013 - [Projet]</div>
-           <div class=detail>
-             <h1><a href="https://github.com/badele/fabrecipes">Fabrecipes</a></h1>
-
-             <div class=summary><p>Permet d'automatiser vos tâches, comme par exemple une installation automatique d'une distribution Archlinux.</p>
-             </div>
-           </div>
-         </div>
-
-         <div class=entry-overview>
-           <div class=date>April 2013 - [Contribution]</div>
-           <div class=detail>
-             <h1><a href="https://github.com/badele/rstblog">rstblog</a></h1>
-
-             <div class=summary><p>Quelques corrections sur le moteur de blog rstblog.</p>
-             </div>
-           </div>
-         </div>
-
-         <div class=entry-overview>
-           <div class=date>Avril 2013 - [Projet]</div>
-           <div class=detail>
-             <h1><a href="/projets/gitcheck">Gitcheck</a></h1>
-
-             <div class=summary><p>Gitcheck est un script qui permet d'afficher en un seul coup d'oeil les dépots git non commités.</p>
-             </div>
-           </div>
-         </div>
-
-         <div class=entry-overview>
-           <div class=date>Janvier 2013 - [Projet]</div>
-           <div class=detail>
-             <h1><a href="/projets/garchdeps">Garchdeps</a></h1>
-
-             <div class=summary><p>Garchdeps est un outil qui permet d'analyser l'utilisation des paquets sur votre système Archlinux. Il permet également d'afficher les dépendances sous forme de graphique. Il est développé en Python.</p>
-             </div>
-           </div>
-         </div>
-
-         <div class=entry-overview>
-           <div class=date>Septembre 2012 - [Contribution]</div>
-           <div class=detail>
-             <h1><a href="http://www.labsud.org/">FabLab à Montpellier</a></h1>
-
-             <div class=summary><p>En projet de développer des modules domotiques qui communiqueront sans fils.</p>
-             </div>
-           </div>
-         </div>
+-----------
+Mes projets
+-----------
 
 
-         <div class=entry-overview>
-           <div class=date>Juin 2010 - [Contribution]</div>
-           <div class=detail>
-             <h1><a href="http://www.domogik.org/">Domogik</a></h1>
+`gitcheck <http://bruno.adele.im/projets/gitcheck>`__ 
+-----------------------------------------------------
 
-             <div class=summary><p>Je contribue de temps en temps à Domogik. C'est une solution domotique libre d'automatisation de votre habitation.</p>
-             </div>
-           </div>
-         </div>
-
-         <div class=entry-overview>
-           <div class=date>Mai 2008 - [Contribution]</div>
-           <div class=detail>
-             <h1><a href="http://montpellier-wireless.net">Réseaux wifi libre</a></h1>
-         
-             <div class=summary>
-               <p>Aide à la mise en place d'un réseau wifi libre au complexe de location de Coudalere avec l'association <a href="http://montpellier-wireless.net">Montpellier Wireless</a></p>
-             </div>
-           </div>
-         </div>
-
-
-         <div class=entry-overview>
-           <div class=date>Février 2008 - [Projet]</div>
-           <div class=detail>
-             <h1><a href="http://www.flickr.com/photos/b_adele/sets/72157604615789600/with/2492875600/">Modélisation intérieur avec blender</a></h1>
-         
-             <div class=summary>
-               <p>J'utilise de temps en temps Blender pour me divertir, je suis fortement attiré par le rendu quasi réel, durant cette période, j'ai modélisé le futur Salon/Cuisine de mes beaux parents, ainsi que ma future salle de bain (le projet de la salle de bain n'a toujours pas abouti dans le monde réel :)</p>
-             </div>
-           </div>
-         </div>
-
-
-         <div class=entry-overview>
-           <div class=date>Aout 2006 - [Contribution]</div>
-           <div class=detail>
-             <h1><a href="http://www.openstreetmap.org">Carte libre avec openstreetmap</a></h1>
-         
-             <div class=summary>
-               <p>Lors de mes trajets, élaboration de tracés avec l'aide de mon GPS Garmin 60cx, export et ajout des modifications sur le site openstreetmap</p>
-             </div>
-           </div>
-         </div>
+a contribué **15 heures** (25 utilisateurs, 6 forks)
 
 
 
 
-         <div class=entry-overview>
-           <div class=date>Février 2006 - [Projet abandonné]</div>
-           <div class=detail>
-             <h1><a href="https://github.com/badele/old-projects">Crawler et Spider</a></h1>
-         
-             <div class=summary>
-               <p>J'ai toujours été fasciné par le Big Data et l'indexation, j'ai donc effectué quelques tests de crawl et indexation de page web</p>
-             </div>
-           </div>
-         </div>
-
-
-         <div class=entry-overview>
-           <div class=date>Avril 2004 - [Projet]</div>
-           <div class=detail>
-             <h1><a href="www.jesuislibre.org/docbook/MythTVGentoo/MythTVGentoo.pdf">Création magnétoscope numerique avec gentoo</a></h1>
-         
-             <div class=summary>
-               <p>Mise en place de magnétoscope numérique avec une PVR 350 sur une Gentoo, à l'époque, c'était un magnétoscope avant-gardiste comparé à nos box actuelles, je dirais même que ce magnétoscope était beaucoup plus fiable que nos box :)</p>
-             </div>
-           </div>
-         </div>
-
-         <div class=entry-overview>
-           <div class=date>Juin 2001 - [Projet]</div>
-           <div class=detail>
-             <h1><a href="http://www.all.asso.fr/">All, Association pour le Logiciel Libre</a></h1>
-         
-             <div class=summary>
-               <p>Création d'une association pour promouvoir le logiciel libre dans la région de Montpellier, voici quelques <a href="http://portail.all.asso.fr/Realisations">réalisations de l'association</a></p>
-             </div>
-           </div>
-         </div>
-
-
-         <div class=entry-overview>
-           <div class=date>Novembre 2001 - [Projet abandoné]</div>
-           <div class=detail>
-             <h1><a href="https://github.com/badele/old-projects">kdoors, répondeur, magnetoscope</a></h1>
-         
-             <div class=summary>
-               <p>Quelques projets abandonnés, par exemple Kdoors. Ce projet avait pour mission de détecter les failles des serveurs, et avait été développé pour l'environnement KDE. Aujourd'hui nessus le fait très bien ! R&D sur un répondeur et magnétoscope numérique, par la suite.</p>
-             </div>
-           </div>
-         </div>
 
 
 
-         <div class=entry-overview>
-           <div class=date>Avril 2000 - [Projet]</div>
-           <div class=detail>
-             <h1><a href="http://www.jesuislibre.org">jesuislibre.org</a></h1>
-         
-             <div class=summary>
-               <p>Je Suis Libre est un projet opensource qui permet de référencer toutes les contributions françaises afin de permettre aux débutants dans la langue de Shakespeare de rechercher des applications généralement sous forme de licence libre et principalement en langue française.</p>
-             </div>
-           </div>
-         </div>
 
-         <div class=entry-overview>
-           <div class=date>Juin 1996</div>
-           <div class=detail>
-             <h1><a href="http://www.flickr.com/photos/b_adele/">Photos</a></h1>
-         
-             <div class=summary>
-               <p>Passionné de photos, j'ai commencé par l'argentique et ensuite je suis passé au numérique. Lorsque j'ai du temps libre, il m'arrive de shooter de temps en temps</p>
-             </div>
-           </div>
-         </div>
+
+Lorsque vous travaillez sur plusieurs dépots git, il est désagréable de devoir parcourir chaque projet un à un pour voir si des modifications ont été commitées. C'est pour cela que j'ai crée ce script qui permet de savoir quels sont les projets non commités.
+
+`JobCatcher <https://api.github.com/repos/yoannsculo/JobCatcher>`__ 
+-------------------------------------------------------------------
+
+a contribué **108 heures** (8 utilisateurs, 4 forks)
+
+
+
+
+
+
+
+
+
+JobCatcher est une application codée en Python qui agrège des flux d'offres d'emploi de job boards et les stocke dans une base de données locale.
+
+`fabrecipes <https://api.github.com/repos/badele/fabrecipes>`__ 
+---------------------------------------------------------------
+
+a contribué **89 heures** (5 utilisateurs, 1 forks)
+
+
+
+
+
+
+
+
+
+Permet d'automatiser vos tâches, comme par exemple une installation automatique d'une distribution Archlinux.
+
+`garchdeps <https://api.github.com/repos/badele/garchdeps>`__ 
+-------------------------------------------------------------
+
+(3 utilisateurs)
+
+
+
+
+
+
+
+
+
+Tool that show graphical dependencies of the archlinux packages
+
+`github-summary <https://api.github.com/repos/badele/github-summary>`__ 
+-----------------------------------------------------------------------
+
+a contribué **22 heures** 
+
+.. image:: https://travis-ci.org/badele/github-summary.png?branch=master
+   :target: https://travis-ci.org/badele/github-summary
+
+
+.. image:: https://coveralls.io/repos/badele/github-summary/badge.png
+   :target: https://coveralls.io/r/badele/github-summary
+
+
+.. image:: https://pypip.in/v/github-summary/badge.png
+   :target: https://crate.io/packages/github-summary/
+
+
+.. image:: https://pypip.in/d/github-summary/badge.png
+   :target: https://crate.io/packages/github-summary/
+
+
+Permet de générer des pages résumant l'activité sur vos dépots github, il est possible d'exporter sous différents formats (TXT, RST, HTML, ...)
+
+`bruno.adele.im <https://api.github.com/repos/badele/bruno.adele.im>`__ 
+-----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+code du site web bruno.adele.im
+
+`blog.jesuislibre.org <https://api.github.com/repos/badele/blog.jesuislibre.org>`__ 
+-----------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+source du blog jesuislibre.org
+
+`pelican-theme-jesuislibre <https://api.github.com/repos/badele/pelican-theme-jesuislibre>`__ 
+---------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+jesuislibre pelican theme
+
+`pelicanthemes-generator <https://api.github.com/repos/badele/pelicanthemes-generator>`__ 
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+pelican theme screenshot generator
+
+`archlinux-pkgbuilds <https://api.github.com/repos/badele/archlinux-pkgbuilds>`__ 
+---------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Archlinux packages
+
+`old-projects <https://api.github.com/repos/badele/old-projects>`__ 
+-------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Ancien projets / old projects
+
+`fdedup <https://api.github.com/repos/badele/fdedup>`__ 
+-------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Find a duplicate files and delete or move
+
+`jsl-tools <https://api.github.com/repos/badele/jsl-tools>`__ 
+-------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Diverse tools from jesuislibre website
+
+
+
+-----------------
+Mes contributions
+-----------------
+
+
+`JobCatcher <https://api.github.com/repos/badele/JobCatcher>`__ 
+---------------------------------------------------------------
+
+a contribué **108 heures** (1 utilisateurs)
+
+
+
+
+
+
+
+
+
+JobCatcher est une application codée en Python qui agrège des flux d'offres d'emploi de job boards et les stocke dans une base de données locale.
+
+`rstblog <https://api.github.com/repos/badele/rstblog>`__ 
+---------------------------------------------------------
+
+(, 1 forks)
+
+
+
+
+
+
+
+
+
+NIH site generator
+
+`pelican-plugins <https://api.github.com/repos/badele/pelican-plugins>`__ 
+-------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+A bunch of plugins for the pelican blog engine.
+
+`fabtools <https://api.github.com/repos/badele/fabtools>`__ 
+-----------------------------------------------------------
+
+a contribué **29 heures** 
+
+
+
+
+
+
+
+
+
+Outil pour simplifier l'écriture de script fabtools
+
+`pelican-themes <https://api.github.com/repos/badele/pelican-themes>`__ 
+-----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Themes for pelican
+
+`archzfs <https://api.github.com/repos/badele/archzfs>`__ 
+---------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Package and repository sources for ZFS on Arch Linux
+
+`python-munin <https://api.github.com/repos/badele/python-munin>`__ 
+-------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Python framework for building Munin plugins (also includes some plugins prebuilt).
+
+`urwid <https://api.github.com/repos/badele/urwid>`__ 
+-----------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Console user interface library for Python (hg-git clone for git-fans)
+
+
+
+Cette page a été généré avec le projet `github-summary`_
+
+.. _github-summary: https://github.com/badele/github-summary

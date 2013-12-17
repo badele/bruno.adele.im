@@ -11,7 +11,7 @@ J'ai découvert l'informatique peut de temps après les années 80, c'est le dé
 j'ai également découvert ce que je pourrais appeler la meilleure invention de l'informatique: Internet. Depuis plus de 15 ans, j'ai acquis diverses compétences dans des 
 domaines qui peuvent aller de l'ingienierie systeme à la programmation en passant pas le design. `Pour en savoir plus </cv>`__ 
 
-Je suis également passionné par les logiciels libres. Jusqu'à présent j'ai contribué **373 heures** à divers projets libres.
+Je suis également passionné par les logiciels libres. Jusqu'à présent j'ai contribué **381 heures** à divers projets libres.
 
 Mes blogs
 ---------
@@ -50,7 +50,7 @@ Mes projets
 - `JobCatcher`_ a contribué **108 heures** (8 utilisateurs, 4 forks)
 - `fabrecipes`_ a contribué **89 heures** (5 utilisateurs, 1 forks)/ A recipes for Fabric & Fabtools
 - `garchdeps`_ (3 utilisateurs)/ Tool that show graphical dependencies of the archlinux packages
-- `github-summary`_ a contribué **14 heures** / Python tool for generate github summary in multiple formats
+- `github-summary`_ a contribué **22 heures** / Python tool for generate github summary in multiple formats
 - `bruno.adele.im`_ / code du site web bruno.adele.im
 - `blog.jesuislibre.org`_ / source du blog jesuislibre.org
 - `pelican-theme-jesuislibre`_ / jesuislibre pelican theme
@@ -60,7 +60,9 @@ Mes projets
 - `fdedup`_ / Find a duplicate files and delete or move
 - `jsl-tools`_ / Diverse tools from jesuislibre website
 
-**Répartition des languages:** Python (43%), Shell (23%), CSS (14%), JavaScript (9%), Emacs Lisp (3%), C++ (3%), Perl (3%), Ruby (3%)
+**Répartition des languages:** Python (44%), Shell (22%), CSS (14%), JavaScript (8%), Emacs Lisp (3%), C++ (3%), Perl (3%), Ruby (3%)
+
+Cette page a été généré avec le projet `github-summary`_
 
 Me contacter
 ------------
@@ -103,3 +105,4 @@ Me contacter
 
 .. _blog jesuislibre: http://blog.jesuislibre.org
 .. _blog cendreo: http://blog.cendreo.com
+.. _github-summary: https://github.com/badele/github-summary

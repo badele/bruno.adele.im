@@ -12,6 +12,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 summary:
 	org2json -o /LIVE/documents/project.org -s projects.json
 	githubsummary -t rst/index-fr.rst -j projects.json -s ./content/pages/about.rst
+	githubsummary -t rst/projects-fr.rst -j projects.json -s ./content/pages/projets.rst
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
