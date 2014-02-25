@@ -1,6 +1,6 @@
 {
     "fabrecipes": {
-        "hours": "89"
+        "hours": "92"
     }, 
     "jesuislibre": {
         "hours": "16"
@@ -11,8 +11,14 @@
     "surlacarte": {
         "hours": "44"
     }, 
-    "github-summary": {
-        "hours": "22"
+    "serialkiller": {
+        "hours": "110"
+    }, 
+    "gitcheck": {
+        "hours": "15"
+    }, 
+    "fabtools": {
+        "hours": "30"
     }, 
     "Archlinux": {
         "hours": "0"
@@ -20,16 +26,13 @@
     "cacause": {
         "hours": "51"
     }, 
-    "fabtools": {
-        "hours": "29"
+    "github-summary": {
+        "hours": "32"
     }, 
     "home": {
         "hours": "0"
     }, 
     "informemoi": {
         "hours": "7"
-    }, 
-    "gitcheck": {
-        "hours": "15"
     }
 }

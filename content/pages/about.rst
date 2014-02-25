@@ -11,7 +11,7 @@ J'ai découvert l'informatique peut de temps après les années 80, c'est le dé
 j'ai également découvert ce que je pourrais appeler la meilleure invention de l'informatique: Internet. Depuis plus de 15 ans, j'ai acquis diverses compétences dans des 
 domaines qui peuvent aller de l'ingienierie systeme à la programmation en passant pas le design. `Pour en savoir plus </cv>`__ 
 
-Je suis également passionné par les logiciels libres. Jusqu'à présent j'ai contribué **381 heures** à divers projets libres.
+Je suis également passionné par les logiciels libres. Jusqu'à présent j'ai contribué **505 heures** à divers projets libres.
 
 Mes blogs
 ---------
@@ -33,36 +33,43 @@ Mes sites
 Mes contributions
 -----------------
 
-- `JobCatcher`_ a contribué **108 heures** (8 utilisateurs, 4 forks)
-- `rstblog`_ (180 utilisateurs, 58 forks)/ NIH site generator
-- `pelican-plugins`_ (115 utilisateurs, 125 forks)/ A bunch of plugins for the pelican blog engine.
-- `fabtools`_ a contribué **29 heures** (558 utilisateurs, 118 forks)/ Tools for writing awesome Fabric files
-- `pelican-themes`_ (308 utilisateurs, 241 forks)/ Themes for pelican
-- `archzfs`_ (11 utilisateurs, 2 forks)/ Package and repository sources for ZFS on Arch Linux
-- `python-munin`_ (216 utilisateurs, 45 forks)/ Python framework for building Munin plugins (also includes some plugins prebuilt).
-- `urwid`_ (151 utilisateurs, 41 forks)/ Console user interface library for Python (hg-git clone for git-fans)
+- `JobCatcher`_ a contribué **108 heures** (10 utilisateurs, 7 forks)
+- `rstblog`_ (186 utilisateurs, 57 forks)/ NIH site generator
+- `fabtools`_ a contribué **30 heures** (599 utilisateurs, 125 forks)/ Tools for writing awesome Fabric files
+- `life`_ (1948 utilisateurs, 536 forks)/ Life - a timeline of important events in my life
+- `pelican-plugins`_ (145 utilisateurs, 166 forks)/ A bunch of plugins for the pelican blog engine.
+- `pelican-themes`_ (373 utilisateurs, 290 forks)/ Themes for pelican
+- `archzfs`_ (16 utilisateurs, 3 forks)/ Package and repository sources for ZFS on Arch Linux
+- `python-munin`_ (225 utilisateurs, 47 forks)/ Python framework for building Munin plugins (also includes some plugins prebuilt).
+- `urwid`_ (179 utilisateurs, 44 forks)/ Console user interface library for Python (hg-git clone for git-fans)
 
 
 Mes projets
 -----------
 
-- `gitcheck`_ a contribué **15 heures** (25 utilisateurs, 6 forks)/ Check multiple git repository in one pass / Vérifiez vos dépôt git en une seule passe
-- `JobCatcher`_ a contribué **108 heures** (8 utilisateurs, 4 forks)
-- `fabrecipes`_ a contribué **89 heures** (5 utilisateurs, 1 forks)/ A recipes for Fabric & Fabtools
-- `garchdeps`_ (3 utilisateurs)/ Tool that show graphical dependencies of the archlinux packages
-- `github-summary`_ a contribué **22 heures** / Python tool for generate github summary in multiple formats
-- `bruno.adele.im`_ / code du site web bruno.adele.im
+- `gitcheck`_ a contribué **15 heures** (32 utilisateurs, 9 forks)/ Check multiple git repository in one pass / Vérifiez vos dépôt git en une seule passe
+- `JobCatcher`_ a contribué **108 heures** (10 utilisateurs, 7 forks)
+- `fabrecipes`_ a contribué **92 heures** (4 utilisateurs, 1 forks)/ A recipes for Fabric & Fabtools
+- `serialkiller`_ a contribué **110 heures** (4 utilisateurs)/ timeseries database with reduce system
+- `github-summary`_ a contribué **32 heures** (2 utilisateurs)/ Python tool for generate github summary in multiple formats
+- `garchdeps`_ (2 utilisateurs)/ Tool that show graphical dependencies of the archlinux packages
+- `pelican-theme-jesuislibre`_ (1 utilisateurs)/ jesuislibre pelican theme
+- `serialkiller-plugins`_ / Plugins for serialkiller project
+- `python-project-template`_ / A Python project template
 - `blog.jesuislibre.org`_ / source du blog jesuislibre.org
-- `pelican-theme-jesuislibre`_ / jesuislibre pelican theme
+- `bruno.adele.im`_ / code du site web bruno.adele.im
 - `pelicanthemes-generator`_ / pelican theme screenshot generator
 - `archlinux-pkgbuilds`_ / Archlinux packages
 - `old-projects`_ / Ancien projets / old projects
 - `fdedup`_ / Find a duplicate files and delete or move
 - `jsl-tools`_ / Diverse tools from jesuislibre website
 
-**Répartition des languages:** Python (44%), Shell (22%), CSS (14%), JavaScript (8%), Emacs Lisp (3%), C++ (3%), Perl (3%), Ruby (3%)
+**Répartition des langages:** Python (50%), Shell (21%), CSS (11%), JavaScript (8%), Emacs Lisp (3%)
 
-Cette page a été généré avec le projet `github-summary`_
+.. image:: https://chart.googleapis.com/chart?cht=p3&chs=300x90&chd=t:50,21,11,8,3&chl=Python|Shell|CSS|JavaScript|Emacs Lisp&chco=2669ad
+    :alt: Languages graphs
+
+Cette page a été générée avec le projet `github-summary`_
 
 Me contacter
 ------------
@@ -81,11 +88,14 @@ Me contacter
 .. _gitcheck: https://github.com/badele/gitcheck
 .. _jobcatcher: https://github.com/badele/jobcatcher
 .. _fabrecipes: https://github.com/badele/fabrecipes
-.. _garchdeps: https://github.com/badele/garchdeps
+.. _serialkiller: https://github.com/badele/serialkiller
 .. _github-summary: https://github.com/badele/github-summary
-.. _bruno.adele.im: https://github.com/badele/bruno.adele.im
-.. _blog.jesuislibre.org: https://github.com/badele/blog.jesuislibre.org
+.. _garchdeps: https://github.com/badele/garchdeps
 .. _pelican-theme-jesuislibre: https://github.com/badele/pelican-theme-jesuislibre
+.. _serialkiller-plugins: https://github.com/badele/serialkiller-plugins
+.. _python-project-template: https://github.com/badele/python-project-template
+.. _blog.jesuislibre.org: https://github.com/badele/blog.jesuislibre.org
+.. _bruno.adele.im: https://github.com/badele/bruno.adele.im
 .. _pelicanthemes-generator: https://github.com/badele/pelicanthemes-generator
 .. _archlinux-pkgbuilds: https://github.com/badele/archlinux-pkgbuilds
 .. _old-projects: https://github.com/badele/old-projects
@@ -95,8 +105,9 @@ Me contacter
 
 .. _jobcatcher: https://github.com/badele/jobcatcher
 .. _rstblog: https://github.com/badele/rstblog
-.. _pelican-plugins: https://github.com/badele/pelican-plugins
 .. _fabtools: https://github.com/badele/fabtools
+.. _life: https://github.com/badele/life
+.. _pelican-plugins: https://github.com/badele/pelican-plugins
 .. _pelican-themes: https://github.com/badele/pelican-themes
 .. _archzfs: https://github.com/badele/archzfs
 .. _python-munin: https://github.com/badele/python-munin
