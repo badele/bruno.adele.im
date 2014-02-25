@@ -10,7 +10,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 # Pelican
 summary:
-	org2json -o /LIVE/documents/project.org -s projects.json
+	org2json -o /home/badele/docshare/documents/project.org -s projects.json
 	githubsummary -t rst/index-fr.rst -j projects.json -s ./content/pages/about.rst
 	githubsummary -t rst/projects-fr.rst -j projects.json -s ./content/pages/projets.rst
 
