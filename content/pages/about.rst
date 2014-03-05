@@ -11,7 +11,7 @@ J'ai découvert l'informatique peut de temps après les années 80, c'est le dé
 j'ai également découvert ce que je pourrais appeler la meilleure invention de l'informatique: Internet. Depuis plus de 15 ans, j'ai acquis diverses compétences dans des 
 domaines qui peuvent aller de l'ingienierie systeme à la programmation en passant pas le design. `Pour en savoir plus </cv>`__ 
 
-Je suis également passionné par les logiciels libres. Jusqu'à présent j'ai contribué **505 heures** à divers projets libres.
+Je suis également passionné par les logiciels libres. Jusqu'à présent j'ai contribué **508 heures** à divers projets libres.
 
 Mes blogs
 ---------
@@ -35,13 +35,13 @@ Mes contributions
 
 - `JobCatcher`_ a contribué **108 heures** (10 utilisateurs, 7 forks)
 - `rstblog`_ (186 utilisateurs, 57 forks)/ NIH site generator
-- `fabtools`_ a contribué **30 heures** (599 utilisateurs, 125 forks)/ Tools for writing awesome Fabric files
-- `life`_ (1948 utilisateurs, 536 forks)/ Life - a timeline of important events in my life
-- `pelican-plugins`_ (145 utilisateurs, 166 forks)/ A bunch of plugins for the pelican blog engine.
-- `pelican-themes`_ (373 utilisateurs, 290 forks)/ Themes for pelican
+- `fabtools`_ a contribué **30 heures** (600 utilisateurs, 129 forks)/ Tools for writing awesome Fabric files
+- `life`_ (1950 utilisateurs, 535 forks)/ Life - a timeline of important events in my life
+- `pelican-plugins`_ (148 utilisateurs, 173 forks)/ A bunch of plugins for the pelican blog engine.
+- `pelican-themes`_ (376 utilisateurs, 297 forks)/ Themes for pelican
 - `archzfs`_ (16 utilisateurs, 3 forks)/ Package and repository sources for ZFS on Arch Linux
-- `python-munin`_ (225 utilisateurs, 47 forks)/ Python framework for building Munin plugins (also includes some plugins prebuilt).
-- `urwid`_ (179 utilisateurs, 44 forks)/ Console user interface library for Python (hg-git clone for git-fans)
+- `python-munin`_ (226 utilisateurs, 47 forks)/ Python framework for building Munin plugins (also includes some plugins prebuilt).
+- `urwid`_ (183 utilisateurs, 45 forks)/ Console user interface library for Python (hg-git clone for git-fans)
 
 
 Mes projets
@@ -52,11 +52,11 @@ Mes projets
 - `fabrecipes`_ a contribué **92 heures** (4 utilisateurs, 1 forks)/ A recipes for Fabric & Fabtools
 - `serialkiller`_ a contribué **110 heures** (4 utilisateurs)/ timeseries database with reduce system
 - `github-summary`_ a contribué **32 heures** (2 utilisateurs)/ Python tool for generate github summary in multiple formats
-- `garchdeps`_ (2 utilisateurs)/ Tool that show graphical dependencies of the archlinux packages
+- `garchdeps`_ a contribué **0 heures** (2 utilisateurs)/ Tool that show graphical dependencies of the archlinux packages
 - `pelican-theme-jesuislibre`_ (1 utilisateurs)/ jesuislibre pelican theme
-- `serialkiller-plugins`_ / Plugins for serialkiller project
-- `python-project-template`_ / A Python project template
 - `blog.jesuislibre.org`_ / source du blog jesuislibre.org
+- `serialkiller-plugins`_ / Plugins for serialkiller project
+- `python-project-template`_ a contribué **3 heures** / A Python project template
 - `bruno.adele.im`_ / code du site web bruno.adele.im
 - `pelicanthemes-generator`_ / pelican theme screenshot generator
 - `archlinux-pkgbuilds`_ / Archlinux packages
@@ -74,7 +74,7 @@ Cette page a été générée avec le projet `github-summary`_
 Me contacter
 ------------
 
-:Email: bruno.adele@jesuislibre.org
+:Email: bruno@adele.im
 :Twitter: https://twitter.com/jesuislibre
 :Google+: https://plus.google.com/100723270029692582967
 :Facebook: https://www.facebook.com/bruno.adele
@@ -92,9 +92,9 @@ Me contacter
 .. _github-summary: https://github.com/badele/github-summary
 .. _garchdeps: https://github.com/badele/garchdeps
 .. _pelican-theme-jesuislibre: https://github.com/badele/pelican-theme-jesuislibre
+.. _blog.jesuislibre.org: https://github.com/badele/blog.jesuislibre.org
 .. _serialkiller-plugins: https://github.com/badele/serialkiller-plugins
 .. _python-project-template: https://github.com/badele/python-project-template
-.. _blog.jesuislibre.org: https://github.com/badele/blog.jesuislibre.org
 .. _bruno.adele.im: https://github.com/badele/bruno.adele.im
 .. _pelicanthemes-generator: https://github.com/badele/pelicanthemes-generator
 .. _archlinux-pkgbuilds: https://github.com/badele/archlinux-pkgbuilds

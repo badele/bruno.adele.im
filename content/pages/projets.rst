@@ -6,15 +6,15 @@ Mes projets
 :slug: projets
 :save_as: projets/index.html
 
-Passionné par les logiciels libres. Je contribue à divers projets, j'ai contribué **505 heures** sur **25** projets.
+Passionné par les logiciels libres. Je contribue à divers projets, j'ai contribué **508 heures** sur **25** projets.
 
 -----------
 Mes projets
 -----------
 
 
-`gitcheck <https://api.github.com/repos/badele/gitcheck>`__ 
------------------------------------------------------------
+`gitcheck <http://bruno.adele.im/projets/gitcheck>`__
+-----------------------------------------------------
 
 a contribué **15 heures** (32 utilisateurs, 9 forks)
 
@@ -26,10 +26,10 @@ a contribué **15 heures** (32 utilisateurs, 9 forks)
 
 
 
-Check multiple git repository in one pass / Vérifiez vos dépôt git en une seule passe
+Lorsque vous travaillez sur plusieurs dépots git, il est désagréable de devoir parcourir chaque projet un à un pour voir si des modifications ont été commitées. C'est pour cela que j'ai crée ce script qui permet de savoir quels sont les projets non commités.
 
-`JobCatcher <https://api.github.com/repos/yoannsculo/JobCatcher>`__ 
--------------------------------------------------------------------
+`JobCatcher <https://github.com/yoannsculo/JobCatcher>`__
+---------------------------------------------------------
 
 a contribué **108 heures** (10 utilisateurs, 7 forks)
 
@@ -41,10 +41,10 @@ a contribué **108 heures** (10 utilisateurs, 7 forks)
 
 
 
+JobCatcher est une application codée en Python qui agrège des flux d'offres d'emploi de job boards et les stocke dans une base de données locale.
 
-
-`fabrecipes <https://api.github.com/repos/badele/fabrecipes>`__ 
----------------------------------------------------------------
+`fabrecipes <https://github.com/badele/fabrecipes>`__
+-----------------------------------------------------
 
 a contribué **92 heures** (4 utilisateurs, 1 forks)
 
@@ -56,45 +56,65 @@ a contribué **92 heures** (4 utilisateurs, 1 forks)
 
 
 
-A recipes for Fabric & Fabtools
+Permet d'automatiser vos tâches, comme par exemple une installation automatique d'une distribution Archlinux.
 
-`serialkiller <https://api.github.com/repos/badele/serialkiller>`__ 
--------------------------------------------------------------------
+`serialkiller <https://github.com/badele/serialkiller>`__
+---------------------------------------------------------
 
 a contribué **110 heures** (4 utilisateurs)
 
+.. image:: https://travis-ci.org/badele/serialkiller.png?branch=master
+   :target: https://travis-ci.org/badele/serialkiller
 
 
+.. image:: https://coveralls.io/repos/badele/serialkiller/badge.png
+   :target: https://coveralls.io/r/badele/serialkiller
 
 
+.. image:: https://pypip.in/v/serialkiller/badge.png
+   :target: https://crate.io/packages/serialkiller/
 
 
+.. image:: https://pypip.in/d/serialkiller/badge.png
+   :target: https://crate.io/packages/serialkiller/
 
 
 timeseries database with reduce system
 
-`github-summary <https://api.github.com/repos/badele/github-summary>`__ 
------------------------------------------------------------------------
+`github-summary <https://github.com/badele/github-summary>`__
+-------------------------------------------------------------
 
 a contribué **32 heures** (2 utilisateurs)
 
+.. image:: https://travis-ci.org/badele/github-summary.png?branch=master
+   :target: https://travis-ci.org/badele/github-summary
 
 
+.. image:: https://coveralls.io/repos/badele/github-summary/badge.png
+   :target: https://coveralls.io/r/badele/github-summary
 
 
+.. image:: https://pypip.in/v/github-summary/badge.png
+   :target: https://crate.io/packages/github-summary/
 
 
+.. image:: https://pypip.in/d/github-summary/badge.png
+   :target: https://crate.io/packages/github-summary/
 
 
-Python tool for generate github summary in multiple formats
+Permet de générer des pages résumant l'activité sur vos dépots github, il est possible d'exporter sous différents formats (TXT, RST, HTML, ...)
 
-`garchdeps <https://api.github.com/repos/badele/garchdeps>`__ 
--------------------------------------------------------------
+`garchdeps <http://bruno.adele.im/projets/garchdeps>`__
+-------------------------------------------------------
 
-(2 utilisateurs)
+a contribué **0 heures** (2 utilisateurs)
+
+.. image:: https://travis-ci.org/badele/garchdeps.png?branch=master
+   :target: https://travis-ci.org/badele/garchdeps
 
 
-
+.. image:: https://coveralls.io/repos/badele/garchdeps/badge.png
+   :target: https://coveralls.io/r/badele/garchdeps
 
 
 
@@ -103,8 +123,8 @@ Python tool for generate github summary in multiple formats
 
 Tool that show graphical dependencies of the archlinux packages
 
-`pelican-theme-jesuislibre <https://api.github.com/repos/badele/pelican-theme-jesuislibre>`__ 
----------------------------------------------------------------------------------------------
+`pelican-theme-jesuislibre <https://github.com/badele/pelican-theme-jesuislibre>`__
+-----------------------------------------------------------------------------------
 
 (1 utilisateurs)
 
@@ -118,38 +138,8 @@ Tool that show graphical dependencies of the archlinux packages
 
 jesuislibre pelican theme
 
-`serialkiller-plugins <https://api.github.com/repos/badele/serialkiller-plugins>`__ 
------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-Plugins for serialkiller project
-
-`python-project-template <https://api.github.com/repos/badele/python-project-template>`__ 
------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-A Python project template
-
-`blog.jesuislibre.org <https://api.github.com/repos/badele/blog.jesuislibre.org>`__ 
------------------------------------------------------------------------------------
+`blog.jesuislibre.org <https://github.com/badele/blog.jesuislibre.org>`__
+-------------------------------------------------------------------------
 
 
 
@@ -163,8 +153,38 @@ A Python project template
 
 source du blog jesuislibre.org
 
-`bruno.adele.im <https://api.github.com/repos/badele/bruno.adele.im>`__ 
------------------------------------------------------------------------
+`serialkiller-plugins <https://github.com/badele/serialkiller-plugins>`__
+-------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+Plugins for serialkiller project
+
+`python-project-template <https://github.com/badele/python-project-template>`__
+-------------------------------------------------------------------------------
+
+a contribué **3 heures** 
+
+
+
+
+
+
+
+
+
+A Python project template
+
+`bruno.adele.im <https://github.com/badele/bruno.adele.im>`__
+-------------------------------------------------------------
 
 
 
@@ -178,8 +198,8 @@ source du blog jesuislibre.org
 
 code du site web bruno.adele.im
 
-`pelicanthemes-generator <https://api.github.com/repos/badele/pelicanthemes-generator>`__ 
------------------------------------------------------------------------------------------
+`pelicanthemes-generator <https://github.com/badele/pelicanthemes-generator>`__
+-------------------------------------------------------------------------------
 
 
 
@@ -193,8 +213,8 @@ code du site web bruno.adele.im
 
 pelican theme screenshot generator
 
-`archlinux-pkgbuilds <https://api.github.com/repos/badele/archlinux-pkgbuilds>`__ 
----------------------------------------------------------------------------------
+`archlinux-pkgbuilds <https://github.com/badele/archlinux-pkgbuilds>`__
+-----------------------------------------------------------------------
 
 
 
@@ -208,8 +228,8 @@ pelican theme screenshot generator
 
 Archlinux packages
 
-`old-projects <https://api.github.com/repos/badele/old-projects>`__ 
--------------------------------------------------------------------
+`old-projects <https://github.com/badele/old-projects>`__
+---------------------------------------------------------
 
 
 
@@ -223,8 +243,8 @@ Archlinux packages
 
 Ancien projets / old projects
 
-`fdedup <https://api.github.com/repos/badele/fdedup>`__ 
--------------------------------------------------------
+`fdedup <https://github.com/badele/fdedup>`__
+---------------------------------------------
 
 
 
@@ -238,8 +258,8 @@ Ancien projets / old projects
 
 Find a duplicate files and delete or move
 
-`jsl-tools <https://api.github.com/repos/badele/jsl-tools>`__ 
--------------------------------------------------------------
+`jsl-tools <https://github.com/badele/jsl-tools>`__
+---------------------------------------------------
 
 
 
@@ -260,8 +280,8 @@ Mes contributions
 -----------------
 
 
-`JobCatcher <https://api.github.com/repos/badele/JobCatcher>`__ 
----------------------------------------------------------------
+`JobCatcher <https://github.com/badele/JobCatcher>`__
+-----------------------------------------------------
 
 a contribué **108 heures** (10 utilisateurs, 7 forks)
 
@@ -273,10 +293,10 @@ a contribué **108 heures** (10 utilisateurs, 7 forks)
 
 
 
+JobCatcher est une application codée en Python qui agrège des flux d'offres d'emploi de job boards et les stocke dans une base de données locale.
 
-
-`rstblog <https://api.github.com/repos/badele/rstblog>`__ 
----------------------------------------------------------
+`rstblog <https://github.com/badele/rstblog>`__
+-----------------------------------------------
 
 (186 utilisateurs, 57 forks)
 
@@ -290,12 +310,10 @@ a contribué **108 heures** (10 utilisateurs, 7 forks)
 
 NIH site generator
 
-`fabtools <https://api.github.com/repos/badele/fabtools>`__ 
------------------------------------------------------------
+`fabtools <https://github.com/badele/fabtools>`__
+-------------------------------------------------
 
-a contribué **30 heures** (599 utilisateurs, 125 forks)
-
-
+a contribué **30 heures** (600 utilisateurs, 129 forks)
 
 
 
@@ -303,12 +321,14 @@ a contribué **30 heures** (599 utilisateurs, 125 forks)
 
 
 
-Tools for writing awesome Fabric files
 
-`life <https://api.github.com/repos/badele/life>`__ 
----------------------------------------------------
 
-(1948 utilisateurs, 536 forks)
+Outil pour simplifier l'écriture de script fabtools
+
+`life <https://github.com/badele/life>`__
+-----------------------------------------
+
+(1950 utilisateurs, 535 forks)
 
 
 
@@ -320,10 +340,10 @@ Tools for writing awesome Fabric files
 
 Life - a timeline of important events in my life
 
-`pelican-plugins <https://api.github.com/repos/badele/pelican-plugins>`__ 
--------------------------------------------------------------------------
+`pelican-plugins <https://github.com/badele/pelican-plugins>`__
+---------------------------------------------------------------
 
-(145 utilisateurs, 166 forks)
+(148 utilisateurs, 173 forks)
 
 
 
@@ -335,10 +355,10 @@ Life - a timeline of important events in my life
 
 A bunch of plugins for the pelican blog engine.
 
-`pelican-themes <https://api.github.com/repos/badele/pelican-themes>`__ 
------------------------------------------------------------------------
+`pelican-themes <https://github.com/badele/pelican-themes>`__
+-------------------------------------------------------------
 
-(373 utilisateurs, 290 forks)
+(376 utilisateurs, 297 forks)
 
 
 
@@ -350,8 +370,8 @@ A bunch of plugins for the pelican blog engine.
 
 Themes for pelican
 
-`archzfs <https://api.github.com/repos/badele/archzfs>`__ 
----------------------------------------------------------
+`archzfs <https://github.com/badele/archzfs>`__
+-----------------------------------------------
 
 (16 utilisateurs, 3 forks)
 
@@ -365,10 +385,10 @@ Themes for pelican
 
 Package and repository sources for ZFS on Arch Linux
 
-`python-munin <https://api.github.com/repos/badele/python-munin>`__ 
--------------------------------------------------------------------
+`python-munin <https://github.com/badele/python-munin>`__
+---------------------------------------------------------
 
-(225 utilisateurs, 47 forks)
+(226 utilisateurs, 47 forks)
 
 
 
@@ -380,10 +400,10 @@ Package and repository sources for ZFS on Arch Linux
 
 Python framework for building Munin plugins (also includes some plugins prebuilt).
 
-`urwid <https://api.github.com/repos/badele/urwid>`__ 
------------------------------------------------------
+`urwid <https://github.com/badele/urwid>`__
+-------------------------------------------
 
-(179 utilisateurs, 44 forks)
+(183 utilisateurs, 45 forks)
 
 
 
