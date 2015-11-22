@@ -16,6 +16,7 @@ summary:
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	cp static/gitcheck_verbose_v2.png $(OUTPUTDIR)/static/
 
 doc:
 	cd /LIVE/projects/pelican-theme-jesuislibre ; ./generate_pelicanconf-sample.py /LIVE/projects/blog.jesuislibre.org/pelicanconf.py | sort > pelicanconf-sample.py
@@ -46,4 +47,4 @@ push:
 	git push github master
 
 upload:
-	rsync -a output/ bruno.adele@10.0.0.6:/home/bruno.adele/public_html/
+	rsync -a output/ w4a153382@ssh.web4all.fr:/datas/vol3/w4a153382/var/www/bruno.adele.im/htdocs/
