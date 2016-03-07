@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <title>{% block title %}{{ this.title }}{% endblock %}</title>
+    <!-- meta -->
+    <meta charset="utf-8"/>
+    <meta name="author" content="Bruno Adelé"/>
+
+    <!-- Feeds -->
+    <link href="http://bruno.adele.im/feed.atom" type="application/atom+xml" rel="alternate"
+          title="Bruno Adelé Atom Feed"/>
+
+    <!-- Style -->
+    <link href="https://fonts.googleapis.com/css?family=Linden+Hill:400,400italic" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="./theme/css/main.css" type="text/css"/>
+    <link rel="shortcut icon" href="./theme/favicon.ico"/>
+</head>
+<body>
+
+{% block body %}{% endblock %}
+
+<!-- footer -->
+<div class=footer>
+    <div class="textwidget">
+        <a alt="family site" href="http://adele.im"><img src="./theme/button/badge_aim.png" alt="aim button"/></a>
+        <a alt="feed RSS" href="http://feeds.feedburner.com/FamilleDeGeek"><img src="./theme/button/badge_rss.png"
+                                                                                alt="rss button"/></a>
+        <a alt="twitter" href="http://twitter.com/jesuislibre.org"><img src="./theme/button/badge_twitter.png"
+                                                                        alt="twitter button"/></a>
+        <a alt="Google +" rel="author" href="https://plus.google.com/100723270029692582967"><img
+                src="./theme/button/badge_google+.png" alt="google + button"/></a>
+        <a alt="Blog" href="http://blog.jesuislibre.org"><img src="./theme/button/badge_blog.png"
+                                                              alt="blog jesuislibre button"/></a>
+        <a alt="facebook" href="http://www.facebook.com/bruno.adele"><img src="./theme/button/badge_facebook.png"
+                                                                          alt="facebook button"/></a>
+        <a alt="flickr" href="http://www.flickr.com/photos/b_adele"><img src="./theme/button/badge_flickr.png"
+                                                                         alt="flickr button"/></a>
+        <a alt="linkedin" href="http://fr.linkedin.com/in/brunoadele"><img src="./theme/button/badge_linkedin.png"
+                                                                           alt="linkedin button"/></a>
+    </div>
+
+    <p>
+        powered with <a href="https://www.getlektor.com/">lektor</a>, site available on <a
+            href="https://github.com/badele/bruno.adele.im">github</a></p>
+    <p><a href="https://github.com/badele/pelican-theme-jesuislibre">jesuislibre</a> theme, inspired by <a
+            href="http://blog.dbrgn.ch">dbrng</a> blog</p>
+    <p><a href="http://bruno.adele.im">about author</a></p>
+</div>
+
+</body>
+</html>

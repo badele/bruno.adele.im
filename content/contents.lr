@@ -1,0 +1,116 @@
+_model: page
+---
+title: Bruno Adelé
+---
+body:
+
+# Bruno Adele
+
+<img alt="Ma photo" class="align-right" src="/static/bruno.jpg">
+
+J'ai découvert l'informatique peut de temps après les années 80, c'est le début de l'informatique grand public, j'ai découvert linux vers 1994, dans la même période, 
+j'ai également découvert ce que je pourrais appeler la meilleure invention de l'informatique: Internet. Depuis plus de 15 ans, j'ai acquis diverses compétences dans des 
+domaines qui peuvent aller de l'ingienierie systeme à la programmation en passant pas le design. [Pour en savoir plus][cv]
+
+Je suis également passionné par les logiciels libres. Jusqu'à présent j'ai contribué **508 heures** à divers projets libres.
+
+## Mes sites
+
+ * [blog][blog] me permet de partager ma passion, il me sert également de bloc-note.
+ * [jesuislibre][jesuislibre] Ce site permet de faire sortir de l'ombre tous les développeurs qui conçoivent des projets dans le milieu du libre (communautaires, universitaires,etc..).
+ * [famille][famille] Les sites de la famille
+
+## Mes contributions
+
+ * **[JobCatcher][JobCatcher]** a contribué **108 heures** (10 utilisateurs, 7 forks)
+ * **[rstblog][rstblog]** (186 utilisateurs, 57 forks)/ NIH site generator
+ * **[fabtools][fabtools]** a contribué **30 heures** (600 utilisateurs, 129 forks)/ Tools for writing awesome Fabric files
+ * **[life][life]** (1950 utilisateurs, 535 forks)/ Life - a timeline of important events in my life
+ * **[pelican-plugins][pelican-plugins]** (148 utilisateurs, 173 forks)/ A bunch of plugins for the pelican blog engine.
+ * **[pelican-themes][pelican-themes]** (376 utilisateurs, 297 forks)/ Themes for pelican
+ * **[archzfs][archzfs]** (16 utilisateurs, 3 forks)/ Package and repository sources for ZFS on Arch Linux
+ * **[python-munin][python-munin]** (226 utilisateurs, 47 forks)/ Python framework for building Munin plugins (also includes some plugins prebuilt).
+ * **[urwid][urwid]** (183 utilisateurs, 45 forks)/ Console user interface library for Python (hg-git clone for git-fans)
+
+
+Mes projets
+-----------
+
+ * **[gitcheck][gitcheck]** a contribué **15 heures** (32 utilisateurs, 9 forks)/ Check multiple git repository in one pass / Vérifiez vos dépôt git en une seule passe
+ * **[JobCatcher][JobCatcher]** a contribué **108 heures** (10 utilisateurs, 7 forks)
+ * **[fabrecipes][fabrecipes]** a contribué **92 heures** (4 utilisateurs, 1 forks)/ A recipes for Fabric & Fabtools
+ * **[serialkiller][serialkiller]** a contribué **110 heures** (4 utilisateurs)/ timeseries database with reduce system
+ * **[github-summary][github-summary]** a contribué **32 heures** (2 utilisateurs)/ Python tool for generate github summary in multiple formats
+ * **[garchdeps][garchdeps]** a contribué **0 heures** (2 utilisateurs)/ Tool that show graphical dependencies of the archlinux packages
+ * **[pelican-theme-jesuislibre][pelican-theme-jesuislibre]** (1 utilisateurs)/ jesuislibre pelican theme
+ * **[blog.jesuislibre.org][blog.jesuislibre.org]** / source du blog jesuislibre.org
+ * **[serialkiller-plugins][serialkiller-plugins]** / Plugins for serialkiller project
+ * **[python-project-template][python-project-template]** a contribué **3 heures** / A Python project template
+ * **[bruno.adele.im][bruno.adele.im]** / code du site web bruno.adele.im
+ * **[pelicanthemes-generator][pelicanthemes-generator]** / pelican theme screenshot generator
+ * **[archlinux-pkgbuilds][archlinux-pkgbuilds]** / Archlinux packages
+ * **[old-projects][old-projects]** / Ancien projets / old projects
+ * **[fdedup][fdedup]** / Find a duplicate files and delete or move
+ * **[jsl-tools][jsl-tools]** / Diverse tools from jesuislibre website
+
+**Répartition des langages:** Python (50%), Shell (21%), CSS (11%), JavaScript (8%), Emacs Lisp (3%)
+
+<img alt="Languages graphs" src="https://chart.googleapis.com/chart?cht=p3&chs=300x90&chd=t:50,21,11,8,3&chl=Python|Shell|CSS|JavaScript|Emacs Lisp&chco=2669ad">
+
+
+Cette page a été générée avec le projet [github-summary]
+
+Me contacter
+------------
+
+<table class="docutils field-list" frame="void" rules="none">
+    <colgroup>
+        <col class="field-name">
+        <col class="field-body">
+    </colgroup>
+    <tbody valign="top">
+        <tr class="field"><th class="field-name">Email:</th><td class="field-body"><a class="reference external" href="mailto:bruno@adele.im">bruno@adele.im</a></td></tr>
+        <tr class="field"><th class="field-name">Twitter:</th><td class="field-body"><a class="reference external" href="https://twitter.com/jesuislibre">https://twitter.com/jesuislibre</a></td></tr>
+        <tr class="field"><th class="field-name">Google+:</th><td class="field-body"><a class="reference external" href="https://plus.google.com/100723270029692582967">https://plus.google.com/100723270029692582967</a></td></tr>
+        <tr class="field"><th class="field-name">Facebook:</th><td class="field-body"><a class="reference external" href="https://www.facebook.com/bruno.adele">https://www.facebook.com/bruno.adele</a></td></tr>
+        <tr class="field"><th class="field-name">Linuxfr:</th><td class="field-body"><a class="reference external" href="http://linuxfr.org/users/b_adele">http://linuxfr.org/users/b_adele</a></td></tr>
+        <tr class="field"><th class="field-name">Github:</th><td class="field-body"><a class="reference external" href="https://github.com/badele">https://github.com/badele</a></td></tr>
+        <tr class="field"><th class="field-name">Flickr:</th><td class="field-body"><a class="reference external" href="http://www.flickr.com/photos/b_adele/">http://www.flickr.com/photos/b_adele/</a></td></tr>
+        <tr class="field"><th class="field-name">Lastfm:</th><td class="field-body"><a class="reference external" href="http://www.lastfm.fr/user/b_adele">http://www.lastfm.fr/user/b_adele</a></td></tr>
+        <tr class="field"><th class="field-name">Stackoverflow:</th><td class="field-body"><a class="reference external" href="http://stackoverflow.com/users/2015612/bruno-adele">http://stackoverflow.com/users/2015612/bruno-adele</a></td></tr>
+    </tbody>
+</table>
+
+
+[rstblog]: https://github.com/badele/rstblog
+[fabtools]: https://github.com/badele/fabtools
+[life]: https://github.com/badele/life
+[pelican-plugins]: https://github.com/badele/pelican-plugins
+[pelican-themes]: https://github.com/badele/pelican-themes
+[archzfs]: https://github.com/badele/archzfs
+[python-munin]: https://github.com/badele/python-munin
+[urwid]: https://github.com/badele/urwid
+
+
+[cv]: /cv
+[blog]: http://blog.jesuislibre.org
+[jesuislibre]: http://www.jesuislibre.org
+[famille]: http://adele.im
+[github_summary]: https://github.com/badele/github-summary
+
+[gitcheck]: https://github.com/badele/gitcheck
+[jobcatcher]: https://github.com/badele/jobcatcher
+[fabrecipes]: https://github.com/badele/fabrecipes
+[serialkiller]: https://github.com/badele/serialkiller
+[github-summary]: https://github.com/badele/github-summary
+[garchdeps]: https://github.com/badele/garchdeps
+[pelican-theme-jesuislibre]: https://github.com/badele/pelican-theme-jesuislibre
+[blog.jesuislibre.org]: https://github.com/badele/blog.jesuislibre.org
+[serialkiller-plugins]: https://github.com/badele/serialkiller-plugins
+[python-project-template]: https://github.com/badele/python-project-template
+[bruno.adele.im]: https://github.com/badele/bruno.adele.im
+[pelicanthemes-generator]: https://github.com/badele/pelicanthemes-generator
+[archlinux-pkgbuilds]: https://github.com/badele/archlinux-pkgbuilds
+[old-projects]: https://github.com/badele/old-projects
+[fdedup]: https://github.com/badele/fdedup
+[jsl-tools]: https://github.com/badele/jsl-tools

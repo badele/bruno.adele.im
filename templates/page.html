@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<div id="wrapper">
+    <div id="blogtitle">Bruno Adelé
+        <div id="subtitle">Ma page personnelle</div>
+    </div>
+
+    <ul id="mainnav">
+        <li><a href="/">Home</a></li>
+        <li><a href="/projets">projets</a></li>
+        <li><a href="/cv">cv</a></li>
+    </ul>
+    <div class="clearboth"></div>
+
+    <div id="content">
+        <div class="row">
+            {{ this.body }}
+        </div>
+    </div>
+</div>
+{% endblock %}
