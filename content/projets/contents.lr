@@ -1,0 +1,187 @@
+_model: page
+---
+title: The github projects index for Bruno Adele github account
+---
+body:
+
+Passionné par les logiciels libres. Je contribue à divers projets, j'ai contribué **508 heures** sur **25** projets.
+
+# Mes projets
+
+## [gitcheck](http://bruno.adele.im/projets/gitcheck)
+
+a contribué **15 heures** (32 utilisateurs, 9 forks)
+
+Lorsque vous travaillez sur plusieurs dépots git, il est désagréable de devoir parcourir chaque projet un à un pour voir si des modifications ont été commitées. C'est pour cela que j'ai crée ce script qui permet de savoir quels sont les projets non commités.
+
+
+## [JobCatcher](https://github.com/yoannsculo/JobCatcher)
+
+a contribué **108 heures** (10 utilisateurs, 7 forks)
+
+JobCatcher est une application codée en Python qui agrège des flux d'offres d'emploi de job boards et les stocke dans une base de données locale.
+
+
+## [fabrecipes](https://github.com/badele/fabrecipes)
+
+a contribué **92 heures** (4 utilisateurs, 1 forks)
+
+Permet d'automatiser vos tâches, comme par exemple une installation automatique d'une distribution Archlinux.
+
+## [serialkiller](https://github.com/badele/serialkiller)
+
+a contribué **110 heures** (4 utilisateurs)
+
+<a href="https://travis-ci.org/badele/serialkiller"><img alt="Serialkiller travis" src="https://travis-ci.org/badele/serialkiller.png?branch=master"></a>
+<a href="https://travis-ci.org/badele/serialkiller"><img alt="Serialkiller coveralls" src="https://coveralls.io/repos/badele/serialkiller/badge.png"></a>
+
+timeseries database with reduce system
+
+## [github-summary](https://github.com/badele/github-summary)
+
+a contribué **32 heures** (2 utilisateurs)
+
+<a href="https://travis-ci.org/badele/github-summary"><img alt="github-summary travis" src="https://travis-ci.org/badele/github-summary.png?branch=master"></a>
+<a href="https://coveralls.io/r/badele/github-summary"><img alt="github-summary coveralls" src="https://coveralls.io/repos/badele/github-summary/badge.png"></a>
+
+
+Permet de générer des pages résumant l'activité sur vos dépots github, il est possible d'exporter sous différents formats (TXT, RST, HTML, ...)
+
+## [garchdeps](http://bruno.adele.im/projets/garchdeps)
+
+a contribué **0 heures** (2 utilisateurs)
+
+<a href="https://travis-ci.org/badele/garchdeps"><img alt="garchdeps travis" src="https://travis-ci.org/badele/garchdeps.png?branch=master"></a>
+<a href="https://coveralls.io/r/badele/garchdeps"><img alt="garchdeps coveralls" src="https://coveralls.io/repos/badele/garchdeps/badge.png"></a>
+
+Tool that show graphical dependencies of the archlinux packages
+
+## [pelican-theme-jesuislibre](https://github.com/badele/pelican-theme-jesuislibre)
+
+(1 utilisateurs)
+
+
+
+jesuislibre pelican theme
+
+## [blog.jesuislibre.org](https://github.com/badele/blog.jesuislibre.org)
+
+source du blog jesuislibre.org
+
+## [serialkiller-plugins](https://github.com/badele/serialkiller-plugins)
+
+
+Plugins for serialkiller project
+
+## [python-project-template](https://github.com/badele/python-project-template)
+
+a contribué **3 heures**
+
+A Python project template
+
+## [bruno.adele.im](https://github.com/badele/bruno.adele.im)
+
+
+code du site web bruno.adele.im
+
+## [pelicanthemes-generator](https://github.com/badele/pelicanthemes-generator)
+
+
+pelican theme screenshot generator
+
+## [archlinux-pkgbuilds](https://github.com/badele/archlinux-pkgbuilds)
+
+
+Archlinux packages
+
+## [old-projects](https://github.com/badele/old-projects)
+
+Ancien projets / old projects
+
+## [fdedup](https://github.com/badele/fdedup)
+
+Find a duplicate files and delete or move
+
+## [jsl-tools](https://github.com/badele/jsl-tools)
+
+Diverse tools from jesuislibre website
+
+
+
+## Mes contributions
+
+
+## [JobCatcher](https://github.com/badele/JobCatcher)
+
+a contribué **108 heures** (10 utilisateurs, 7 forks)
+
+
+JobCatcher est une application codée en Python qui agrège des flux d'offres d'emploi de job boards et les stocke dans une base de données locale.
+
+## [rstblog](https://github.com/badele/rstblog)
+
+(186 utilisateurs, 57 forks)
+
+
+NIH site generator
+
+## [fabtools](https://github.com/badele/fabtools)
+
+a contribué **30 heures** (600 utilisateurs, 129 forks)
+
+
+Outil pour simplifier l'écriture de script fabtools
+
+## [life](https://github.com/badele/life)
+
+(1950 utilisateurs, 535 forks)
+
+
+Life - a timeline of important events in my life
+
+## [pelican-plugins](https://github.com/badele/pelican-plugins)
+
+(148 utilisateurs, 173 forks)
+
+
+A bunch of plugins for the pelican blog engine.
+
+## [pelican-themes](https://github.com/badele/pelican-themes)
+
+(376 utilisateurs, 297 forks)
+
+
+Themes for pelican
+
+## [archzfs](https://github.com/badele/archzfs)
+
+(16 utilisateurs, 3 forks)
+
+
+Package and repository sources for ZFS on Arch Linux
+
+## [python-munin](https://github.com/badele/python-munin)
+
+(226 utilisateurs, 47 forks)
+
+
+Python framework for building Munin plugins (also includes some plugins prebuilt).
+
+## [urwid](https://github.com/badele/urwid)
+
+(183 utilisateurs, 45 forks)
+
+
+Console user interface library for Python (hg-git clone for git-fans)
+
+
+## Répartition des langages
+
+**Répartition des langages:** Python (50%), Shell (21%), CSS (11%), JavaScript (8%), Emacs Lisp (3%), C++ (3%), Perl (3%), Ruby (3%)
+
+<img alt="Languages graphs" src="https://chart.googleapis.com/chart?cht=p3&chs=600x180&chd=t:50,21,11,8,3,3,3,3&chl=Python|Shell|CSS|JavaScript|Emacs Lisp|C++|Perl|Ruby&chco=2669ad">
+
+
+Cette page a été générée avec le projet [github-summary]
+
+[github-summary]: https://github.com/badele/github-summary
