@@ -1,3 +1,11 @@
 [project]
 name = homepage
 
+[servers.web4all]
+name = Web4All
+enabled = yes
+default = yes
+target = rsync://w4a153382@ssh.web4all.fr:/datas/vol3/w4a153382/var/www/bruno.adele.im/htdocs
+
+[packages]
+lektor-markdown-highlighter = 0.1
